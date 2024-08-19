@@ -14,19 +14,19 @@
 
 - cd backend
 
-    python -m venv venv
-    source venv/bin/activate  # Su macOS/Linux
-    .\venv\Scripts\activate   # Su Windows
-    python app.py
+    - python -m venv venv
+    - source venv/bin/activate  # Su macOS/Linux
+    - .\venv\Scripts\activate   # Su Windows
+    - python app.py
 
 
 - cd .. (frontend)
 
-    npm install
-    npm start
+    - npm install
+    - npm start
 
 
-    
+
 
 ![NetworkBubbles Screenshot](public/screenshot.png)
 
